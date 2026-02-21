@@ -158,6 +158,19 @@ li{
     height: 1px;
 }
 
+strong {
+    font-size: 1.05em;
+}
+
+.card--work-history ul {
+    margin-top: 1em;
+}
+
+h2 {
+    font-weight: 600;
+    margin-bottom: 0.5em;
+}
+
 
 @media(max-width:600px){
 
